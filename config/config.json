@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "dev2_2",
+    "password": "1234",
+    "database": "dev2",
+    "host": "54.180.32.208",
+    "dialect": "mysql",
+    "logging": false
+  }
+}
